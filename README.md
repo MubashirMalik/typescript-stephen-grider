@@ -281,7 +281,7 @@ class Car extends Vehicle {
 const car = new Car(10, "red")
 ```
 
-##### Type Definition Files
+##### Type Definition Files
 
 > npm i faker
 > 
